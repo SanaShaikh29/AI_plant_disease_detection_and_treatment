@@ -451,7 +451,7 @@ AgriDoc is an in-app agricultural expert powered by GPT-4o-mini. It supports voi
 
 <div align="center">
 
-**Abdul Samad Shaikh**
+**Sana Shaikh**
 
 Bachelor of Engineering — Information Technology
 M. H. Saboo Siddik College of Engineering, Mumbai · 2024–25
